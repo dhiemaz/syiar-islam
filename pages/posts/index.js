@@ -1,4 +1,4 @@
-import BlogPagination, { getStaticProps } from "../page/[slug]";
+import BlogPagination, {getStaticProps} from "../page/[slug]";
 
-export { getStaticProps };
+export {getStaticProps};
 export default BlogPagination;
