@@ -22,4 +22,12 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 ![alter-text](/images/post/post-1.png)
 *Example Caption*
 
+<iframe
+className="w-full aspect-video self-stretch md:min-h-96"
+src="https://www.youtube.com/embed/1FLYZdxsteo"
+frameBorder="0"
+title="Product Overview Video"
+aria-hidden="true"
+/>
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!

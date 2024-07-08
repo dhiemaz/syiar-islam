@@ -9,21 +9,29 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Pages",
-      "url": "",
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "Library",
+      "url": "#",
       "hasChildren": true,
       "children": [
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "EDarussalam",
+          "url": "https://edarussalam.com/"
+        },
+        {
+          "name": "IslamWeb",
+          "url": "https://www.islamweb.net/en/ebooks/"
+        },
+        {
+          "name": "Al Madina Library",
+          "url": "https://www.dawateislami.net/bookslibrary/"
         }
       ]
     }

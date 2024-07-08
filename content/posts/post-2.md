@@ -1,25 +1,118 @@
 ---
-title: My work from home workstation
-date: 2022-04-04T02:00:00Z
+title: Qur'anic Verses and Hadiths on the Obligation to Seek Knowledge
+date: 2024-07-08T02:00:00Z
 image: /images/post/post-2.png
-categories: ["drone"]
+categories: ["knowledge"]
 featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Education is a fundamental foundation for advancing civilization. This obligation to seek knowledge is emphasized in both the Qur'an and Hadith. Seeking knowledge is a duty for every Muslim. According to the Indonesian Dictionary (KBBI), knowledge is defined as information about a field that is systematically organized with specific methods to explain phenomena in that field.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+In Islam, knowledge is not limited to religious knowledge but also includes general knowledge such as science, culture, and technology.
 
-## Covid-19 Situation
+#### Qur'anic Verses and Hadiths on the Obligation to Seek Knowledge
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+The following are Qur'anic verses and hadiths on the obligation to seek knowledge as written by Bukhari Umar in his book "Hadis Tarbawi: Education in the Perspective of Hadith."
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+1. **Hadith on the Obligation to Seek Knowledge**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+   The Prophet Muhammad (SAW) said:
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+   ```arabic
+   عَنِ ابْنِ مَسْعُودٍ قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَل َّمَ تَعَلَّمُوا الْعِلْمَ
+   وَعَلِّمُوهُ النَّاسَ تَعَلَّمُوا الْفَرَائِضَ وَ عَلِّمُوْهُ النَّاسَ تَعَلَّمُوا الْقُرْآنَ وَعَلِّمُوْهُ
+   النَّاسَ فَإِنِّ ي امْرُؤٌ مَقْبُوضٌ وَالْعِلْمُ سَيُنْتَقَصُ وَتَظْهَرُ الْفِتَنُ حَتَّى يَخْتَلِفَ
+   اثْنَانِ فِي فَرِيضَةٍ لَا يَجِدَانِ أَحَداً يَفْصِلُ بَيْنَهُمَا
+   ```
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+   Ibn Mas'ud narrated, "The Messenger of Allah said, 'Seek knowledge and teach it to others. Learn the laws of inheritance and teach them to others. Learn the Qur'an and teach it to others. I am going to die. Knowledge will decrease and trials will increase, so much so that two people will dispute about a religious duty and will not find anyone to decide between them.'" (Reported by Ad-Darimi, Ad-Daruquthni, and Al-Baihaqi)
+
+   The above hadith includes three commands to learn: the command to learn knowledge ('ilm), the laws of inheritance (al-fara'id), and the Qur'an.
+
+   Ibn Mas'ud believed that the knowledge referred to is the knowledge of Islamic law and all its types, the general rules of Islam as well as the rules concerning inheritance, and learning the Qur'an including memorizing it.
+
+   The Prophet Muhammad (SAW) was concerned that after his death, if his community did not care about knowledge, there would be no one who understands religion, leading to confusion.
+
+   Another hadith aligns with the words of the Prophet Muhammad (SAW):
+
+   ```
+   عَنْ حُسَيْنِ بْنِ عَلِّي قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْ هِ وَسَلَّمَ طَلَبُ
+   الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ
+   ```
+
+   Husain bin Ali narrated that the Prophet Muhammad (SAW) said: "Seeking knowledge is obligatory for every Muslim." (Reported by Baihaqi, Ath-Thabrani, Abu Ya'la, Al-Qudha'i, and Abu Nu'aim Al-Ashbahani).
+
+2. **Obligation to Seek Knowledge in the Qur'an**
+
+   When Allah commands humans to seek knowledge, He uses various words, sometimes commanding humans to read. In Surah Al-Alaq verses 1-5, Allah commands observation of the universe. In Surah Al-Mujadilah verse 11, Allah uses words of motivation.
+
+   Surah Al-Alaq verses 1-5:
+
+   ```
+   اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ
+   ```
+
+   _"Read in the name of your Lord who created,"_
+
+   ```
+   خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ - ٢
+   ```
+
+   _"Created man from a clinging substance."_
+
+   ```
+   اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ - ٣
+   ```
+
+   _"Read, and your Lord is the most Generous,"_
+
+   ```
+   الَّذِيْ عَلَّمَ بِالْقَلَمِۙ - ٤
+   ```
+
+   _"Who taught by the pen"_
+
+   ```
+   عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ - ٥
+   ```
+
+   _"Taught man that which he knew not."_
+
+   These verses highlight why knowledge is so important in human life; Allah commands that before undertaking other tasks and acts of worship, one should learn to read first.
+
+   Surah Al-Mujadilah verse 11:
+
+   ```
+   يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَٰتٍ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+   ```
+
+   _"O you who have believed, when you are told, 'Space yourselves' in assemblies, then make space; Allah will make space for you. And when you are told, 'Arise,' then arise; Allah will raise those who have believed among you and those who were given knowledge, by degrees. And Allah is Acquainted with what you do."_
+
+#### Benefits of Seeking Knowledge
+
+The benefits of seeking knowledge based on hadiths cited by Muhaemin in his book "Quran Hadith" are:
+
+1. **Reward Equivalent to Jihad**
+
+   A person who seeks knowledge will receive a reward equivalent to that of jihad in the way of Allah, as per the hadith of the Prophet Muhammad (SAW):
+
+   ```
+   عَنْ أَنَسِ قَالَ : قَالَ رَسُولُ اللَّهِ ص : مَنْ خَرَجَ فِي طَلَبِ الْعِلْمِ
+   كَانَ فِي سَبِيلِ اللَّهِ حَتَّى يَرْجِعَ
+   ```
+
+   Anas reported that the Messenger of Allah (SAW) said, "Whoever goes out in search of knowledge is in the path of Allah until he returns." (Reported by At-Tirmidhi)
+
+2. **Multiplied Goodness**
+
+   A person who seeks knowledge gains two things: multiplied goodness and a higher status than a person who performs 100 rak'ahs of prayer.
+
+   ```
+   يَا أَبَا ذَر لَا نَتَعْدُ وَ فَتَعَلَّمَ آيَةً مِنْ كِتَابِ اللَّهِ خَيْرٌ لَكَ مِنْ أَنْ
+   تُصَلِّيَ مِائَةَ رَكْعَةٍ
+   ```
+
+   "O Abu Dharr, if you go out in the morning to learn a verse from the Book of Allah, it is better for you than performing a hundred rak'ahs of prayer." (Reported by Ibn Majah)
+
+This discussion clarifies that seeking knowledge is obligatory for every Muslim.
