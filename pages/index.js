@@ -74,7 +74,7 @@ const Home = ({
                             {/*      </div>*/}
                             {/*  )}*/}
                             {/*</div>*/}
-                            <div className="col-9 lg:col-6 ">
+                            <div className="col-9 lg:col-6 invisible">
                                 <ImageFallback
                                     className="mx-auto"
                                     src="data:,"
