@@ -11,12 +11,14 @@ import {sortByDate} from "@lib/utils/sortFunctions";
 import {markdownify} from "@lib/utils/textConverter";
 import Link from "next/link";
 import {FaRegCalendar} from "react-icons/fa";
+import VideoSlider from "@components/VideoSlider";
 
 const {blog_folder, pagination} = config.settings;
 
 const Home = ({
                   banner,
                   posts,
+                  video_posts,
                   featured_posts,
                   recent_posts,
                   categories,
@@ -89,6 +91,20 @@ const Home = ({
                 </div>
             </section>
 
+            {/*{video_posts?.enable && (*/}
+            {/*    <div className="section">*/}
+            {/*        {markdownify(video_posts.title, "h2", "section-title")}*/}
+            {/*        <VideoSlider/>*/}
+            {/*    </div>*/}
+            {/*)}*/}
+
+            {/*<div className="section">*/}
+            {/*    <div className="mb-12 lg:mb-0 lg:items-center mx-auto">*/}
+            {/*        {markdownify("Featured Videos", "h2", "section-title")}*/}
+            {/*        <VideoSlider/>*/}
+            {/*    </div>*/}
+            {/*</div>*/}
+
             {/* Home main */}
             <section className="section">
                 <div className="container">
@@ -98,7 +114,8 @@ const Home = ({
                             {featured_posts.enable && (
                                 <div className="section">
                                     {markdownify(featured_posts.title, "h2", "section-title")}
-                                    <div className="rounded border border-border p-6 dark:border-darkmode-border">
+                                    <div
+                                        className="rounded border border-border p-6 dark:border-darkmode-border">
                                         <div className="row">
                                             <div className="md:col-6">
                                                 <Post post={featuredPosts[0]}/>
@@ -163,7 +180,8 @@ const Home = ({
                             {recent_posts.enable && (
                                 <div className="section pt-0">
                                     {markdownify(recent_posts.title, "h2", "section-title")}
-                                    <div className="rounded border border-border px-6 pt-6 dark:border-darkmode-border">
+                                    <div
+                                        className="rounded border border-border px-6 pt-6 dark:border-darkmode-border">
                                         <div className="row">
                                             {sortPostByDate.slice(0, showPosts).map((post) => (
                                                 <div className="mb-8 md:col-6" key={post.slug}>

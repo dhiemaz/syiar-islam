@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Syiar Islam",
+    "title": "catatan muslim",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo-new.svg",
     "logo_white": "/images/logo-new.svg",
     "logo_width": "200",
     "logo_height": "59",
-    "logo_text": "Syiar Islam"
+    "logo_text": "catatan muslim"
   },
   "settings": {
     "theme_switcher": true,
@@ -26,9 +26,9 @@
     "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
   },
   "metadata": {
-    "meta_author": "Syiar-Islam",
+    "meta_author": "Dimas",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Syiar Islam Blog"
+    "meta_description": "Blog catatan seorang muslim."
   },
   "widgets": {
     "about": {
@@ -47,7 +47,7 @@
     "newsletter": {
       "enable": true,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "content": "Subscribe to get content about Islam every week!",
       "privacy_policy_page": "#",
       "mailchimp_url": "https://gmail.us13.list-manage.com/subscribe/post?u=9dcb0de6212781b3f0e9d1638&id=2a7ce3a93e"
     }

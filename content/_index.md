@@ -11,6 +11,10 @@ banner:
     link: /about
     rel: ""
 
+video_posts:
+  enable: true
+  title: Featured Videos
+
 featured_posts:
   enable: true
   title: Featured Posts
