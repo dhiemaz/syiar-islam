@@ -22,7 +22,7 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
+    "footer_content": "catatan-muslim.com is a blog website that discusses various aspects of Islamic knowledge (etiquette, jurisprudence, hadith, tafsir, and more).",
     "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
   },
   "metadata": {
@@ -33,7 +33,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "catatan-muslim.com is a blog website that discusses various aspects of Islamic knowledge (etiquette, jurisprudence, hadith, tafsir, and more). The writings are based on references from various sources. If there are any errors or shortcomings in the writing, please inform us so the author can make corrections. Hopefully, the articles on this blog can help readers and the author, in particular, so that religious knowledge always accompanies us in every step of our life until we all return to Allah Ta'ala."
     },
     "featured_posts": {
       "enable": true,
