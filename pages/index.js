@@ -34,78 +34,56 @@ const Home = ({
     return (
         <Base>
             {/* Banner */}
-            <section className="section banner relative pb-0">
-                <ImageFallback
-                    className="absolute bottom-0 left-0 z-[-1] w-full"
-                    src={"/images/balighuni-banner.svg"}
-                    width={1005}
-                    height={433}
-                    alt="banner-shape"
-                    priority
-                />
-
-                <div className="container">
+            <section className="section banner flex mx-auto pt-0">
+                <div className="container bg-[url('/images/balighuni-banner.svg')] bg-no-repeat bg-cover lg:bg-cover pb-2">
                     <div className="row flex-wrap-reverse items-center justify-center lg:flex-row">
-                        <div className="mt-12 text-center lg:mt-0 lg:text-left lg:col-12">
-                            {/*  <div className={banner.image_enable ? "mt-12 text-center lg:mt-0 lg:text-left lg:col-6" : "mt-12 text-center lg:mt-0 lg:text-left lg:col-12"}>*/}
-                            {/*    <div className="banner-title">*/}
-                            {/*      {markdownify(banner.title, "h1")}*/}
-                            {/*      {markdownify(banner.title_small, "span")}*/}
-                            {/*    </div>*/}
-                            {/*    {markdownify(banner.content, "p", "mt-4")}*/}
-                            {/*    {banner.button.enable && (*/}
-                            {/*        <Link*/}
-                            {/*          className="btn btn-primary mt-6"*/}
-                            {/*          href={banner.button.link}*/}
-                            {/*          rel={banner.button.rel}*/}
-                            {/*        >*/}
-                            {/*          {banner.button.label}*/}
-                            {/*        </Link>*/}
-                            {/*    )}*/}
-                            {/*  </div>*/}
-                            {/*  {banner.image_enable && (*/}
-                            {/*      <div className="col-9 lg:col-6">*/}
-                            {/*        <ImageFallback*/}
-                            {/*          className="mx-auto object-contain"*/}
-                            {/*          src={banner.image}*/}
-                            {/*          width={548}*/}
-                            {/*          height={443}*/}
-                            {/*          priority={true}*/}
-                            {/*          alt="Banner Image"*/}
-                            {/*        />*/}
-                            {/*      </div>*/}
-                            {/*  )}*/}
-                            {/*</div>*/}
-                            <div className="col-9 lg:col-6 invisible">
-                                <ImageFallback
-                                    className="mx-auto"
-                                    src="data:,"
-                                    width={348}
-                                    height={470}
-                                    alt=""
-                                />
-
+                        <div className={banner.image_enable ? "mt-5 text-center invisible lg:mt-80 lg:text-left lg:col-12 lg:visible" : "mt-5 text-center invisible lg:mt-80 lg:text-left lg:col-12 lg:visible"}>
+                            <div className="banner-title">
+                                {markdownify(banner.title, "h1")}
+                                {markdownify(banner.title_small, "span")}
                             </div>
+                            {markdownify(banner.content, "p", "mt-4")}
+                            {banner.button.enable && (
+                                <Link
+                                    className="btn btn-primary mt-6"
+                                    href={banner.button.link}
+                                    rel={banner.button.rel}>
+                                    {banner.button.label}
+                                </Link>
+                            )}
                         </div>
                     </div>
                 </div>
             </section>
 
-            {/*{video_posts?.enable && (*/}
-            {/*    <div className="section">*/}
-            {/*        {markdownify(video_posts.title, "h2", "section-title")}*/}
-            {/*        <VideoSlider/>*/}
-            {/*    </div>*/}
-            {/*)}*/}
+            {/*{video_posts?.enable && (*/
+            }
+            {/*    <div className="section">*/
+            }
+            {/*        {markdownify(video_posts.title, "h2", "section-title")}*/
+            }
+            {/*        <VideoSlider/>*/
+            }
+            {/*    </div>*/
+            }
+            {/*)}*/
+            }
 
-            {/*<div className="section">*/}
-            {/*    <div className="mb-12 lg:mb-0 lg:items-center mx-auto">*/}
-            {/*        {markdownify("Featured Videos", "h2", "section-title")}*/}
-            {/*        <VideoSlider/>*/}
-            {/*    </div>*/}
-            {/*</div>*/}
+            {/*<div className="section">*/
+            }
+            {/*    <div className="mb-12 lg:mb-0 lg:items-center mx-auto">*/
+            }
+            {/*        {markdownify("Featured Videos", "h2", "section-title")}*/
+            }
+            {/*        <VideoSlider/>*/
+            }
+            {/*    </div>*/
+            }
+            {/*</div>*/
+            }
 
-            {/* Home main */}
+            {/* Home main */
+            }
             <section className="section">
                 <div className="container">
                     <div className="row items-start">
@@ -208,7 +186,8 @@ const Home = ({
                 </div>
             </section>
         </Base>
-    );
+    )
+        ;
 };
 
 export default Home;

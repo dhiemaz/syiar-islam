@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: ""
-  content:
+  title_small: "to Catatan Muslim's Blog"
+  content: catatan muslim is a blog site that discusses various aspects of Islamic knowledge.
   image_enable: true
   image: /images/banner-author.png
   button:
