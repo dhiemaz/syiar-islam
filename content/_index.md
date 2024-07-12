@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: ""
+  content:
   image_enable: true
   image: /images/banner-author.png
   button:
@@ -21,7 +21,7 @@ featured_posts:
 
 promotion:
   enable: true
-  image: /images/promotion.png
+  image: /images/free-palestine.png
   link: "#"
 
 recent_posts:

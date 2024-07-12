@@ -28,6 +28,15 @@ experience:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+I am a Indonesian Muslim blogger. I hold a Master in Information Technology and on going in pursue B.A. in Islamic Studies (IOU) and also Phd in Computer Science.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+The Catatan (seorang) Muslim is not in reference to any particular person, rather, it is an attribute and a quality of an individual. It is a Muslim who not only thinks deeply about his/her own faith but also about the society in which he/she lives.
+
+I started this blog to share things which I find interesting and fascinating about Islam and life in general, which I hope will lead to a stronger spiritual, intellectual, and social development for myself and my readers. I hope the readers find the articles and resources on this blog just as intriguing as I found them while penning them down.
+
+One of my other goals through this blog is to help spread Islam to the English speaking world. All of it is free to use and benefit from!
+
+JazakAllah Khair
+
+www.catatan-muslim.com
+

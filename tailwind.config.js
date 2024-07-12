@@ -81,7 +81,7 @@ module.exports = {
         secondary: [fontSecondary, fontSecondaryType],
       },
       backgroundImage: {
-        "hero-image": "url('/images/about-bg.jpg')"
+        "hero-image": "url('/images/bg-hero.jpg')"
       },
     },
   },

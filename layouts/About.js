@@ -9,15 +9,16 @@ const About = ({ data }) => {
 
   return (
     <section className="section mt-16">
-      <div className="container text-center">
+      <div className="container image-gallery-center text-center">
         {image && (
-          <div className='relative mb-8 rounded-bl bg-hero-image bg-auto bg-no-repeat text-center'>
+          <div className='flex justify-center bg-hero-image bg-no-repeat bg-center bg-cover pt-12 pb-20'>
             <Image
               src={image}
               width={250}
               height={250}
               alt={title}
-              className="rounded-full items-center"
+              objectFit="cover"
+              className="rounded-full"
               priority={true}
             />
           </div>

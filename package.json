@@ -1,6 +1,6 @@
 {
-  "name": "next-tailwind-boilerplate",
-  "description": "a nextjs and tailwindcss boilerplate by themefisher.com",
+  "name": "catatan-muslim",
+  "description": "catatan-muslim.com is a blog site that discusses various aspects of Islamic knowledge (etiquette, jurisprudence, hadith, tafsir, and more).",
   "version": "1.0.5",
   "private": true,
   "license": "UNLICENSED",
@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.12",
     "disqus-react": "^1.1.5",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
