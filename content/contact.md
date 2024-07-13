@@ -4,7 +4,7 @@ description: "Contact Author"
 phone: "+628122021xxxx"
 mail: "prawira.dimas.yudha@gmail.com"
 location: "Indonesia"
-form_action: "mailto:prawira.dimas.yudha@gmail.com"
+form_action: "/contact"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
