@@ -13,16 +13,18 @@ Your attention & grace is what I hope for
 
 Allah 'Azza wa Jalla said:
 
-"And when My servants ask you about Me, then (answer), "I am near". I grant the request of a person who prays when he asks Me, then let them fulfill (All My commandments) and let them believe in Me, so that they will always be in the truth." (QS. Al Baqarah: 186).
+<p dir="rtl" lang="AR">وَاِذَا سَاَلَـكَ عِبَادِىۡ عَنِّىۡ فَاِنِّىۡ قَرِيۡبٌؕ اُجِيۡبُ دَعۡوَةَ الدَّاعِ اِذَا دَعَانِ فَلۡيَسۡتَجِيۡبُوۡا لِىۡ وَلۡيُؤۡمِنُوۡا بِىۡ لَعَلَّهُمۡ يَرۡشُدُوۡنَ‏</p> 
 
-Someone once asked the Prophet Muhammad sallallaahu 'alaihi wa sallam,
+_"And when My servants ask you about Me, then (answer), "I am near". I grant the request of a person who prays when he asks Me, then let them fulfill (All My commandments) and let them believe in Me, so that they will always be in the truth."_ (QS. Al Baqarah: 186).
 
-وَمَا تَزْكِيَةُ النَّفْسِ ؟
+Someone once asked the Prophet ﷺ,
 
-"What is meant by a clean (holy) heart?" He shallallahu 'alaihi wa sallam replied,
+<p dir="rtl" lang="AR">وَمَا تَزْكِيَةُ النَّفْسِ ؟</p>
 
-« أَنْ يَعْلَمَ أَنَّ اللهَ عَزَّ وَجَلَّ مَعَهُ حَيْثُ كَانَ »
+_"What is meant by a clean (holy) heart?"_ He ﷺ replied,
 
-"(That is) a person knows that Allah 'Azza wa jalla is always with him wherever he is." (Narrated by Thabarani in Al Mu'jam Ash Shagir. This hadith was authenticated by Shaykh Al Albani in As Silsilah Ash Shohihah no. 1046)
+<p dir="rtl" lang="AR">« أَنْ يَعْلَمَ أَنَّ اللهَ عَزَّ وَجَلَّ مَعَهُ حَيْثُ كَانَ »</p>
+
+_"(That is) a person knows that Allah 'Azza wa jalla is always with him wherever he is."_ (Narrated by Thabarani in Al Mu'jam Ash Shagir. This hadith was authenticated by Shaykh Al Albani in As Silsilah Ash Shohihah no. 1046)
 
 Allah Ta'ala is always with us wherever we are.

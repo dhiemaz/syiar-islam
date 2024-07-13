@@ -16,7 +16,8 @@ It means; Frequently ask yourself questions that awaken us to think. Quality que
 
 Do you know, fourteen centuries ago this Questioning method was already applied by the Quran. Look at Surah Ar-Rahman, there is one question that is repeated up to 31 times.
 
-فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+<p dir="rtl" lang="AR">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</p>
+
 
 "Then which of your Lord’s favours will you both deny?"
 
@@ -24,7 +25,8 @@ if we can answer it with 31 different answers, then be prepared that our lives w
 
 The Quran really contains so many quality questions for us. One of the most memorable is the question in the Surah At-Taubah: 38,
 
-أَرَضِيتُمْ بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ
+
+<p dir="rtl" lang="AR">أَرَضِيتُمْ بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ</p>
 
 "Do you prefer the life of this world over the Hereafter?"
 

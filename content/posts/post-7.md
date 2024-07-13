@@ -14,23 +14,23 @@ Allah Ta’ala sends revelations and initiates decisions to protect humanity and
 
 Allah Ta’ala said
 
-…يُرِيدُ ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ وَلِتُكۡمِلُواْ ٱلۡعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡ وَلَعَلَّكُمۡ تَشۡكُرُونَ
+<p dir="rtl" lang="AR">…يُرِيدُ ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ وَلِتُكۡمِلُواْ ٱلۡعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡ وَلَعَلَّكُمۡ تَشۡكُرُونَ</p>
 
-“Allah intends ease for you, not hardship, so that you may complete the prescribed period and proclaim the greatness of Allah for guiding you, and perhaps you will be grateful.” (Quran 2:185)
+_“Allah intends ease for you, not hardship, so that you may complete the prescribed period and proclaim the greatness of Allah for guiding you, and perhaps you will be grateful.”_ (Quran 2:185)
 
-مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+<p dir="rtl" lang="AR">مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ</p>
 
-“It is not Allah's Will to burden you, but to purify you and complete His favor upon you, so perhaps you will be grateful.” (Quran 5:6)
+_“It is not Allah's Will to burden you, but to purify you and complete His favor upon you, so perhaps you will be grateful.”_ (Quran 5:6)
 
 
-وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍۢ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ
+<p dir="rtl" lang="AR">وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍۢ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ</p>
 
-“Strive for ˹the cause of˺ Allah in the way He deserves, for ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the way of your forefather Abraham.” (Quran 22:78)
+_“Strive for ˹the cause of˺ Allah in the way He deserves, for ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the way of your forefather Abraham.”_ (Quran 22:78)
 
 
 The life of Allah's Messenger (ﷺ) is a real demonstration. `Aisha (may Allah be pleased with her) described the Prophet by saying
 
-“Whenever Allah's Messenger (ﷺ) was given the choice of one of two matters, he would choose the easier of the two, as long as it was not sinful to do so, but if it was sinful to do so, he would not approach it.” - Sahih al-Bukhari 3560
+_“Whenever Allah's Messenger (ﷺ) was given the choice of one of two matters, he would choose the easier of the two, as long as it was not sinful to do so, but if it was sinful to do so, he would not approach it.”_ (Sahih al-Bukhari 3560)
 
 **DISCUSSION**
 
@@ -44,18 +44,19 @@ The meaning of al-haraj in general can also be interpreted as follows :
 
 Al-haraj means doubt, as in the Qur'an 4:65 : 
 
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا
-"So by your Lord, they (essentially) do not believe until they make you the judge of the matter they are in dispute, then they do not feel in their hearts an objection to the decision you give and they accept it completely."
+<p dir="rtl" lang="AR">فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا</p>
+
+_"So by your Lord, they (essentially) do not believe until they make you the judge of the matter they are in dispute, then they do not feel in their hearts an objection to the decision you give and they accept it completely."_
 
 Al-haraj means narrow and heavy, as in the Qur’an 6:125 :
 
-فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ
+<p dir="rtl" lang="AR">فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ</p>
 
-"Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve"
+_"Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve"_
 
 Al-haraj means barrier, as in the hadith:
       
-“O Allah, I will actually be a hindrance (of those who persecute) the rights of two weak groups, namely; orphans and women” – Sunan Ibn Majah 3678
+_“O Allah, I will actually be a hindrance (of those who persecute) the rights of two weak groups, namely; orphans and women”_ (Sunan Ibn Majah 3678)
 
 The conclusion in terminology is that raf ' al-haraj is eliminating everything that makes it excessively difficult for one's body, soul or property, both now and in the future. 
 However, if the difficulty is not excessive then it should not be categorized as al-haraj.
@@ -64,37 +65,37 @@ The opposite of rukhsah is called `azeemah, translated as determination or actin
 
 Examples of applying the difficult removal (al-Haraj)
 
-1) Al-Maradh (illness).
+#### 1)  Al-Maradh (illness).
 
 Muslims believe in God's wisdom in the problems that people experience in life including sickness. Allah's Messenger (ﷺ)  spoke of the reward one can gain by exercising patience when tested by afflictions such as illness. He says:
       
-“There is nothing that touches a Muslim, whether tired, sick, stressed, sad, dangerous or troubled, even (thorns) that stab him, but Allah will erase some of his sins because of it.” – Al-Bukhari
+_“There is nothing that touches a Muslim, whether tired, sick, stressed, sad, dangerous or troubled, even (thorns) that stab him, but Allah will erase some of his sins because of it.”_ – Al-Bukhari
 
 Given the weaknesses that prevent a person from adhering to the rules of Sharia during illness, Islam relieves the sick of certain obligations. 
 For example:
-`Imran ibn Husain (may Allah be pleased with him) said: had piles, so I asked the Prophet (ﷺ) about the prayer. He said, "Pray while standing and if you can't, pray while sitting and if you cannot do even that, then pray Lying on your side." - Sahih al-Bukhari 1117
+`Imran ibn Husain (may Allah be pleased with him) said: had piles, so I asked the Prophet (ﷺ) about the prayer. He said, _"Pray while standing and if you can't, pray while sitting and if you cannot do even that, then pray Lying on your side."_ (Sahih al-Bukhari 1117)
 
-2) As-safar (Travel).
+#### 2) As-safar (Travel).
 
 Traveling is a part of human life. People travel for Hajj, `Umrah, business, family visits, recreation, and so on.
 
 Abu Hurairah (May Allah be pleased with him) reported:
-The Messenger of Allah (ﷺ) said, "Traveling is a torment because it deprives a traveller of his food, drink and sleep. So when one of you has accomplished his purpose of journey, let him return home quickly." – Riyad as-Salihin 984 
+The Messenger of Allah (ﷺ) said, _"Traveling is a torment because it deprives a traveller of his food, drink and sleep. So when one of you has accomplished his purpose of journey, let him return home quickly."_ (Riyad as-Salihin 984) 
 When people are traveling, they get relief (rukhsah) in prayer in the form of reducing the quantity of work (Takhfif tanqish).
 
-3) An-Nisyan (Forgetfulness).
+#### 3) An-Nisyan (Forgetfulness).
 
 Humans are not perfect, humans have a forgetful nature and because forgetting is a human nature, mistakes, oversights, even violations committed because of forgetting, are not recorded as a sin. 
 Even though this is related to the worship of Allah Ta’ala.
 On the authority of Ibn Abbas (may Allah be pleased with him), that The Messenger of Allah (ﷺ) said :
 
-“Verily Allah has pardoned [or been lenient with] for me my ummah: their mistakes, their forgetfulness, and that which they have been forced to do under duress.” – Hadith 39, 40 Hadith an-Nawawi
+_“Verily Allah has pardoned [or been lenient with] for me my ummah: their mistakes, their forgetfulness, and that which they have been forced to do under duress.”_ (Hadith 39, 40 Hadith an-Nawawi)
 
-The Prophet (ﷺ) said, "If anyone forgets a prayer he should pray that prayer when he remembers it. There is no expiation except to pray the same." – Sahih al-Bukhari 597
+The Prophet (ﷺ) said, _"If anyone forgets a prayer he should pray that prayer when he remembers it. There is no expiation except to pray the same."_ (Sahih al-Bukhari 597)
 
-Abu Hurayrah (may Allah be pleased with him) reported that The Prophet (ﷺ) said: "Whoever forgets that he is fasting and eats or drinks, let him complete his fast, for it was Allah who fed him and gave him to drink." – al-Bukhari and Muslim
+Abu Hurayrah (may Allah be pleased with him) reported that The Prophet (ﷺ) said: _"Whoever forgets that he is fasting and eats or drinks, let him complete his fast, for it was Allah who fed him and gave him to drink."_ (al-Bukhari and Muslim)
 
-6) Al-jahl (Ignorance).
+#### 6) Al-jahl (Ignorance).
 
 If a person is ignorant of Islamic matters, he is not subject to punishment if he does not act according to Islamic teachings. 
 Yes, the basics of Islam should be known by all Muslims, but factors such as age, being a recent convert, or living in an area where there is no adequate Islamic learning are all taken into consideration and fall under the term ignorance.

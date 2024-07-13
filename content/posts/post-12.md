@@ -9,7 +9,7 @@ draft: false
 
 Allah 'Azza wa Jalla said:
 
-وَيَزِيدُ ٱللهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدًىۗ
+<p dir="rtl" lang="AR">وَيَزِيدُ ٱللهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدًىۗ</p>
 
 "And Allah will add guidance to those who have received guidance" (QS. Maryam [19]: 76)
 
@@ -20,8 +20,8 @@ Because, Allah Ta'ala loves good deeds so He repays with guidance and victory. A
 
 Shaykh Salih Fauzan حفظه الله said:
 
-"There is no doubt that increasing the knowledge of deen (religion) will bring benefits to a person. So the more knowledge about the Qur'an & as-Sunnah, the more guidance will be added" (At-Ta'liiq at-Taqwiim I/297)
+_"There is no doubt that increasing the knowledge of deen (religion) will bring benefits to a person. So the more knowledge about the Qur'an & as-Sunnah, the more guidance will be added"_ (At-Ta'liiq at-Taqwiim I/297)
 
-من ازداد علما و لم يزدد هدى لم يزدد من الله الا بعدا
+<p dir="rtl" lang="AR">من ازداد علما و لم يزدد هدى لم يزدد من الله الا بعدا</p>
 
 "Whoever knowledge "increases", but not accompanied by increased guidance, then he will be further away from Allah"
