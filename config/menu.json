@@ -22,7 +22,7 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "EDarussalam",
+          "name": "eDarussalam",
           "url": "https://edarussalam.com/"
         },
         {
@@ -32,6 +32,25 @@
         {
           "name": "Al Madina Library",
           "url": "https://www.dawateislami.net/bookslibrary/"
+        },
+        {
+          "name": "Kalamullah",
+          "url": "https://kalamullah.com/books.html"
+        }
+      ]
+    },
+    {
+      "name": "Quran and Hadith",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Quran Online",
+          "url": "https://quran.com/"
+        },
+        {
+          "name": "Sunnah (Hadith)",
+          "url": "https://sunnah.com/"
         }
       ]
     }
