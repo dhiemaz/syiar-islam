@@ -28,7 +28,7 @@ experience:
 
 ---
 
-I am a Indonesian Muslim blogger. I hold a Master in Information Technology and on going in pursue B.A. in Islamic Studies (IOU) and also Phd in Computer Science.
+I am an Indonesian Muslim blogger. I hold a Master in Information Technology and on going in pursue B.A. in Islamic Studies (IOU) and also Phd in Computer Science.
 
 The Catatan (seorang) Muslim is not in reference to any particular person, rather, it is an attribute and a quality of an individual. It is a Muslim who not only thinks deeply about his/her own faith but also about the society in which he/she lives.
 
