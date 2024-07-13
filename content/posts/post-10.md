@@ -1,25 +1,24 @@
 ---
-title: "My work from home workstation"
+title: "Whatever the test is, be patient"
 date: 2022-04-04T10:00:00Z
-image: /images/post/post-2.png
-categories: ["programming"]
+image: /images/post/post-10.png
+categories: ["self-reminder"]
 featured: false
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Be patient! Study Every Day, Practice Every Time & Exams Are Often Sudden
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Whatever the test must be patient
 
-## Covid-19 Situation
+Trials of calamity give us 2 benefits; the first benefit is to abort sins and the second to increase degrees. This is what we must believe so that we can be patient.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Rasulullah ﷺ said;
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> "Nothing happens to a believer, until the thorns stick in him, except Allah notes for him goodness and mistakes are erased" (HR. Muslim, no. 2572).
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+So we must remember that the test reduces sin if a servant endures it patiently. If you are not patient, you reduce your sins, then this disaster does not reduce your sins, instead it makes a person worse off.
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+Remember that disaster can bring pleasure and can also bring punishment. Brings favors when a servant gets closer to Allah with the disaster.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Incurs doom if it makes a servant further away from Allah, it means that the disaster is a punishment and brings doom to him.

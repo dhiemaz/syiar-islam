@@ -1,25 +1,27 @@
 ---
-title: "What is a Virtual Assistant"
+title: "Hidayah brings hidayah"
 date: 2022-04-04T12:00:00Z
-image: /images/post/post-4-new.png
-categories: ["github"]
+image: /images/post/post-12.png
+categories: ["learn", "self-reminder"]
 featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Allah 'Azza wa Jalla said:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+وَيَزِيدُ ٱللهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدًىۗ
 
-## Covid-19 Situation
+"And Allah will add guidance to those who have received guidance" (QS. Maryam [19]: 76)
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Imam Ibnul Qayyim رحمه الله said:
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> "Hidayah will bring "next guidance" as that misguidance will bring another error. Good practice will produce guidance. The more good deeds a person has, the guidance will "increase". On the other hand, bad deeds will lead to misguidance.
+Because, Allah Ta'ala loves good deeds so He repays with guidance and victory. And Allah also hates bad deeds so that he repays them with "misguidance and accidents" (Tanwiirul Hawaalik I/338)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Shaykh Salih Fauzan حفظه الله said:
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+"There is no doubt that increasing the knowledge of deen (religion) will bring benefits to a person. So the more knowledge about the Qur'an & as-Sunnah, the more guidance will be added" (At-Ta'liiq at-Taqwiim I/297)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+من ازداد علما و لم يزدد هدى لم يزدد من الله الا بعدا
+
+"Whoever knowledge "increases", but not accompanied by increased guidance, then he will be further away from Allah"

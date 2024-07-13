@@ -1,25 +1,28 @@
 ---
-title: "Robotic world is growing very fast"
-date: 2022-04-04T11:00:00Z
-image: /images/post/post-3.png
-categories: ["assistance"]
-featured: false
+title: "Attention & grace OF ALLAH Ta'ala"
+date: 2024-07-12T11:00:00Z
+image: /images/post/post-11.jpg
+categories: ["self-reminder"]
+featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Why do we so often expect human attention, even though Allah always cares for us
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Your attention & grace is what I hope for
 
-## Covid-19 Situation
+Allah 'Azza wa Jalla said:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+"And when My servants ask you about Me, then (answer), "I am near". I grant the request of a person who prays when he asks Me, then let them fulfill (All My commandments) and let them believe in Me, so that they will always be in the truth." (QS. Al Baqarah: 186).
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Someone once asked the Prophet Muhammad sallallaahu 'alaihi wa sallam,
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+وَمَا تَزْكِيَةُ النَّفْسِ ؟
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+"What is meant by a clean (holy) heart?" He shallallahu 'alaihi wa sallam replied,
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+« أَنْ يَعْلَمَ أَنَّ اللهَ عَزَّ وَجَلَّ مَعَهُ حَيْثُ كَانَ »
+
+"(That is) a person knows that Allah 'Azza wa jalla is always with him wherever he is." (Narrated by Thabarani in Al Mu'jam Ash Shagir. This hadith was authenticated by Shaykh Al Albani in As Silsilah Ash Shohihah no. 1046)
+
+Allah Ta'ala is always with us wherever we are.
