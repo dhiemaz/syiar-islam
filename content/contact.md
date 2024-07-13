@@ -1,10 +1,10 @@
 ---
 title: "Let’s, Talk </br> About You"
-description: "meta description"
+description: "Contact Author"
 phone: "+628122021xxxx"
 mail: "prawira.dimas.yudha@gmail.com"
 location: "Indonesia"
-form_action: "#"
+form_action: "mailto:prawira.dimas.yudha@gmail.com"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
