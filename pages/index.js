@@ -35,7 +35,7 @@ const Home = ({
         <Base>
             {/* Banner */}
             <section className="section banner flex mx-auto pt-0 mb-0">
-                <div className="container bg-[url('/images/balighuni-banner.svg')] bg-no-repeat bg-cover lg:bg-cover pb-2">
+                <div className="container bg-[url('/images/balighuni-banner.svg')] bg-no-repeat bg-cover lg:bg-cover rounded-2xl pb-2">
                     <div className="row flex-wrap-reverse items-center justify-center lg:flex-row">
                         <div className={banner.image_enable ? "mt-5 text-center invisible lg:mt-80 lg:text-left lg:col-12 lg:visible" : "mt-5 text-center invisible lg:mt-80 lg:text-left lg:col-12 lg:visible"}>
                             <div className="banner-title">
