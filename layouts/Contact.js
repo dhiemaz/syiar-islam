@@ -36,7 +36,7 @@ const Contact = ({ data }) => {
             </h2>
             <form
               className="contact-form mt-12"
-              method="POST"
+              method="GET"
               action={form_action}
             >
               <div className="mb-6">
