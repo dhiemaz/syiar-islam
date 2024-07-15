@@ -54,7 +54,8 @@
   },
   "disqus": {
     "enable": true,
-    "shortname": "catatan-muslim",
-    "settings": {}
+    "shortname": "catatan-muslim-com",
+    "settings": {
+    }
   }
 }
