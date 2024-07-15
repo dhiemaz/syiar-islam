@@ -1,6 +1,6 @@
 ---
 title: "Wisdom of Fasting"
-date: 2024-07-15T15:00:00Z
+date: 2024-07-14T15:00:00Z
 image: /images/post/post-18.png
 src: https://www.youtube.com/embed/QiV5aNfqyCo?si=A-RCt3bLis7ywftW
 categories: ["Fiqh", "Ramadan-Nugget"]
